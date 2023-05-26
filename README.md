@@ -18,9 +18,9 @@ O projeto avaliativo permite a aplicação dos conhecimentos adquiridos na disci
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [HTML](https://expo.io/](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://nodejs.org/en/](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML]
+- [CSS]
+- [JAVASCRIPT]
 
 ### Autor
 ---
