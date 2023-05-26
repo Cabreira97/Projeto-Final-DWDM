@@ -4,14 +4,14 @@
 ## Descrição do Projeto
 <p align="center">Uma loja online especializada em vendas de produtos para o público gamer.</p>
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧 Website "GAMERS" 🚀 Em construção...  🚧
 </h4>
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [HTML]([https://expo.io/](https://developer.mozilla.org/pt-BR/docs/Web/HTML))
-- [CSS]([https://nodejs.org/en/](https://developer.mozilla.org/pt-BR/docs/Web/CSS))
+- [HTML](https://expo.io/](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://nodejs.org/en/](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ### Autor
