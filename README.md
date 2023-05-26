@@ -4,6 +4,14 @@
 ## Descrição do Projeto
 <p align="center">Uma loja online especializada em vendas de produtos para o público gamer.</p>
 <h4 align="center"> 
+	
+## Sobre o projeto
+<p>O projeto avaliativo consiste na criação de uma loja online especializada em vendas de produtos para o público gamer. A finalidade do projeto é desenvolver uma interface web responsiva para dispositivos móveis, levando em consideração os princípios de design e usabilidade adequados para esse contexto.
+
+Ao concluir o projeto, é importante garantir que a interface seja responsiva, ou seja, que se adapte a diferentes dispositivos móveis, oferecendo uma experiência de uso satisfatória em smartphones e tablets.
+
+O projeto avaliativo permite a aplicação dos conhecimentos adquiridos na disciplina de Desenvolvimento de Interface Web para Dispositivos Móveis, explorando aspectos como layout responsivo, navegação intuitiva, design atraente e usabilidade eficiente.</p>
+	
 	🚧 Website "GAMERS" 🚀 Em construção...  🚧
 </h4>
 ### 🛠 Tecnologias
